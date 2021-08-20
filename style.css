@@ -14,7 +14,19 @@
     background-image: url("./img/bg1.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;
-    background-position:50% 50px;
+    background-position:50% 250px;
+    text-align: center;
+    color:white
+}
+
+#video{
+    position:relative;
+    min-height:300px;
+    min-width: 100%;
+    background-image: url("./img/med.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position:0 -100px;
     text-align: center;
     color:white
 }
